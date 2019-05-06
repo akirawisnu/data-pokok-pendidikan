@@ -7,7 +7,7 @@ This is still a half-baked repository.
 1. Clone repository through command line or download ZIP
 
 ```
-https://github.com/ledwindra/data-pokok-pendidikan.git
+git clone https://github.com/ledwindra/data-pokok-pendidikan.git
 ```
 
 2. Intstall required modules
